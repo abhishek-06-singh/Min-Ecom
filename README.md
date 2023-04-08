@@ -1,5 +1,5 @@
 
-![min-ecom-high-resolution-logo-color-on-transparent-background](https://user-images.githubusercontent.com/115978151/230710463-33208ff6-96e8-48f3-bbda-8069d384fabb.png | width=20)
+![min-ecom-high-resolution-logo-color-on-transparent-background](https://user-images.githubusercontent.com/115978151/230710463-33208ff6-96e8-48f3-bbda-8069d384fabb.png){:height="10px" width="10px"}.
 
 
 # Min Ecom
