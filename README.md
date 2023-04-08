@@ -1,8 +1,5 @@
-<img
-  src="./newlogo2.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 10px">
+<div align='center'><img src='https://user-images.githubusercontent.com/105128267/224688338-8f1f28b7-029b-4ed7-a567-86de0c44ff42.png'/></div>
+
 
 # Min Ecom
 Min Ecom is a minimalist e-commerce application built with React and Vanilla CSS. The purpose of this project is to provide a simple and easy-to-use e-commerce platform for small businesses or individuals who want to sell their products online. All the data is hardcoded in the form of objects, making it easy to test and deploy.
