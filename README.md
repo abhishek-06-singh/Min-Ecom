@@ -13,6 +13,12 @@ Min Ecom is a minimalist e-commerce application built with React and Vanilla CSS
 - Orders are stored in local storage, allowing users to view their order history
 - Navigation menu with links to different pages of the application
 
+## Demo 
+![screenshot](https://user-images.githubusercontent.com/115978151/230711028-20896df9-6b22-4e8f-867c-b0ce0c515520.png)
+![screenshot (1)](https://user-images.githubusercontent.com/115978151/230711043-b1f5fb4c-e52d-4a83-8908-5f1df0e38b7c.png)
+![screenshot (2)](https://user-images.githubusercontent.com/115978151/230711045-13dfa2c6-5bc0-434b-b468-52dff773c17f.png)
+
+
 ## Getting Started
 
 ### Prerequisites
