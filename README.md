@@ -24,6 +24,7 @@ Min Ecom is a minimalist e-commerce application built with React and Vanilla CSS
 ![screenshot (1)](https://user-images.githubusercontent.com/115978151/230711043-b1f5fb4c-e52d-4a83-8908-5f1df0e38b7c.png)
 ![screenshot (2)](https://user-images.githubusercontent.com/115978151/230711045-13dfa2c6-5bc0-434b-b468-52dff773c17f.png)
 
+![Screenshot Capture - 2023-09-12 - 15-10-49](https://github.com/abhishek-06-singh/Min-Ecom/assets/115978151/39a8757e-b6ca-4608-b899-86c71112657e)
 
 ## Getting Started
 
